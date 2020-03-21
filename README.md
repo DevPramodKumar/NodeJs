@@ -1,4 +1,5 @@
 # NodeJs
+# https://medium.com/@abhay.sehgal20/node-js-mysql-package-functions-in-async-await-syntax-2e1a71fa535
 Datatable Server Side In Node JS MySql
 Its very sipmle tu use this article to use datatable server side proccessig. As mentioned in Example.js:
 var query = {};
